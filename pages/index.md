@@ -5,7 +5,7 @@ title: Welcome
 *Hello, world!*
 
 If you are seeing this page through your web browser, you have successfully
-created a new Serum project. Yeah!!!!
+created a new Serum project. Try auto deploy.
 
 ## What's Next?
 
