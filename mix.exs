@@ -19,7 +19,8 @@ defmodule TestBlog.MixFile do
 
   defp deps do
     [
-      {:serum, "~> 1.5"}
+      {:serum, "~> 1.5"},
+      {:serum_theme_essence, "~> 1.0"}
     ]
   end
 end
